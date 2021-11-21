@@ -14,3 +14,6 @@ The goal of this script is to make a simple comparison script that can run autom
    4. Response :- Answering Machine/Disconnected504
    5. Billing Info in Seconds :- 100
    6. Output File Name (default) :- Output Response Time (can change to any other name.)
+
+
+![image](https://github.com/vyasrc/Diabetic_Retinopathy_Detection_Deep_CNNs/blob/main/results%20table.png)
