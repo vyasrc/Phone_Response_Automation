@@ -16,4 +16,4 @@ The goal of this script is to make a simple comparison script that can run autom
    6. Output File Name (default) :- Output Response Time (can change to any other name.)
 
 
-![image](https://github.com/vyasrc/Diabetic_Retinopathy_Detection_Deep_CNNs/blob/main/results%20table.png)
+![image](https://github.com/vyasrc/Phone_Response_Automation/blob/main/Screenshot%202021-11-21%20111924.png)
